@@ -1,0 +1,14 @@
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\bin\Debug\netcoreapp2.1\AspNetCoreApi.deps.json
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\bin\Debug\netcoreapp2.1\AspNetCoreApi.runtimeconfig.json
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\bin\Debug\netcoreapp2.1\AspNetCoreApi.runtimeconfig.dev.json
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\bin\Debug\netcoreapp2.1\AspNetCoreApi.dll
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\bin\Debug\netcoreapp2.1\AspNetCoreApi.pdb
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp2.1\AspNetCoreApi.csprojAssemblyReference.cache
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp2.1\AspNetCoreApi.csproj.CoreCompileInputs.cache
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp2.1\AspNetCoreApi.RazorAssemblyInfo.cache
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp2.1\AspNetCoreApi.RazorAssemblyInfo.cs
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp2.1\AspNetCoreApi.AssemblyInfoInputs.cache
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp2.1\AspNetCoreApi.AssemblyInfo.cs
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp2.1\AspNetCoreApi.RazorTargetAssemblyInfo.cache
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp2.1\AspNetCoreApi.dll
+C:\FONTES.REPS\SOLUCOES.RODRIGO\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp2.1\AspNetCoreApi.pdb
